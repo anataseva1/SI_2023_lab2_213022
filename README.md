@@ -4,7 +4,7 @@
 
 Еве како изгледа Control Flow графот за дадениот код.
 
-![ControlFlowGraf](https://github.com/anataseva1/SI_2023_lab2_213022/assets/109041580/bf870596-5c18-4bc9-8e1f-ce7028de03af)
+![ControlFlowGraf](https://github.com/anataseva1/SI_2023_lab2_213022/assets/109041580/00366edf-fc79-4d7f-8133-89a1e5168761)
 
 
 ### Цикломатска комплексност
@@ -31,7 +31,8 @@
 
 Со овие тест примери е опфатен целиот код за тестирање. Со * е означено изминувањето на кодот според тест примерот.
 
-![Screenshot_72](https://github.com/anataseva1/SI_2023_lab2_213022/assets/109041580/165cf3ad-1e82-4638-a23a-8d98db9313ab)
+![Screenshot_72](https://github.com/anataseva1/SI_2023_lab2_213022/assets/109041580/0fe5fb40-f4d7-48aa-8929-395d8517f66d)
+
 
 
 ### Multiple Condition
@@ -52,7 +53,8 @@
 
 Претставено во табела би изгледало вака, Т(точно),F(неточно) и Х(билошто од двете) : 
 
-![Screenshot_73](https://github.com/anataseva1/SI_2023_lab2_213022/assets/109041580/2b651c09-627c-43d6-8bc0-22b810307919)
+![Screenshot_73](https://github.com/anataseva1/SI_2023_lab2_213022/assets/109041580/cd5cb711-89e1-41f3-946a-93a29a62ca66)
+
 
 
 ### Unit Testing
